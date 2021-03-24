@@ -1,0 +1,29 @@
+body{
+    font-family: 'Sriracha', cursive;
+    background-color: rgb(7, 255, 152) ;
+}
+.header_div{
+    color: rgb(0, 0, 173);
+    background-color: rgb(255, 88, 88);
+}
+.header_div img{
+    width:90px;
+    height:80px;
+}
+#Camera,#Snapshot{
+border: 8px double blue;
+width:350px;
+height:320px;
+box-shadow: 5px 5px 18px black;
+}
+.footer_div h4{
+    background: skyblue;
+    box-shadow: 5px 5px 18px black;
+}
+.footer_div img{
+    width: 90px;
+    height: 90px;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
